@@ -1,0 +1,11 @@
+baseURL = "https://your-va-domain.com/"
+languageCode = "en-us"
+title = "Airbus Virtual"
+theme = "ananke"
+
+[params]
+  description = "Fly Airbus. Deliver the future. Delivery, test, and Beluga missions starting from Toulouse."
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
